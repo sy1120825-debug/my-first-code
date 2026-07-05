@@ -1,0 +1,6 @@
+{
+  "workbench.sideBar.hideWhenEmpty": false,
+  "workbench.activityBar.visible": true,
+  "workbench.editor.showTabs": true,
+  "scm.alwaysShowRepositories": true
+}
